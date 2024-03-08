@@ -1,0 +1,64 @@
+{
+  "members": [
+    {
+      "id": "12345",
+      "cin": "112541",
+      "name": "amine",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "Etudiant",
+      "createdDate": "12/12/1999"
+    },
+    {
+      "id": "54256",
+      "cin": "223256",
+      "name": "mohamed",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "enseignant",
+      "createdDate": "5/11/2000"
+    }
+  ],
+  "articles": [
+    {
+      "Id": "555",
+      "Type": "java",
+      "Titre": "ssd",
+      "Date": "janvier"
+    },
+    {
+      "Id": "120",
+      "Type": "python",
+      "Titre": "ssd",
+      "Date": "janvier"
+    },
+    {
+      "Id": "12",
+      "Type": "python",
+      "Titre": "ssd",
+      "Date": "janvier"
+    },
+    {
+      "Id": "14",
+      "Type": "python",
+      "Titre": "ssd",
+      "Date": "janvier"
+    },
+    {
+      "Id": "20",
+      "Type": "python",
+      "Titre": "ssd",
+      "Date": "janvier"
+    },
+    {
+      "Id": "21", 
+      "Type": "python",
+      "Titre": "ssd",
+      "Date": "janvier"
+    },
+    {
+      "Id": "22", 
+      "Type": "python",
+      "Titre": "ssd",
+      "Date": "janvier"
+    }
+  ]
+}
